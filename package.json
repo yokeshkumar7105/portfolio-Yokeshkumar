@@ -1,20 +1,16 @@
 {
-  "homepage": "https://yokeshkumar7105.github.io/portfolio-Yokeshkumar",
   "name": "yokesh-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
     "@gsap/react": "^2.1.1",
-    "gh-pages": "^6.2.0",
     "gsap": "^3.12.5",
     "gsap-trial": "^3.12.5",
     "lenis": "^1.1.17",
