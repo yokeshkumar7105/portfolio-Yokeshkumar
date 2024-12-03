@@ -50,5 +50,5 @@ https://github.com/user-attachments/assets/c4229d48-3bdb-46f5-b89b-825802340b42
 
 Check out the website here ➡️ https://shorturl.at/9S1Eq
 
-![GitHub Views](https://komarev.com/ghpvc/?username=your-username&repository=your-repository-name)
+![GitHub Views](https://komarev.com/ghpvc/?username=yokeshkumar7105&repository=portfolio-Yokeshkumar)
 
