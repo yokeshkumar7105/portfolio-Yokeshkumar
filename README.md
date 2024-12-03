@@ -24,26 +24,37 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 ![image](https://github.com/user-attachments/assets/014d83f3-494e-4551-b59e-6d2a222f9a9f)
 
 
-![Aboutpage](https://img.shields.io/badge/About&nbsp;page-%230078D4?style=flat&colorB=%23A3E635)
+
+
+<img src="https://img.shields.io/badge/About&nbsp;page-%230078D4?style=flat&colorB=%23A3E635" style="width:150px; padding:10px; border:2px solid black;">
 
 ![image](https://github.com/user-attachments/assets/32d67caf-9cfa-451e-a9c8-68d99b79e75f)
 
 
-![Workpage](https://img.shields.io/badge/Work&nbsp;page-%230078D4?style=flat&colorB=%23A3E635)
+
+
+<img src="https://img.shields.io/badge/Work&nbsp;page-%230078D4?style=flat&colorB=%23A3E635" style="width:150px; padding:10px; border:2px solid black;">
 
 ![image](https://github.com/user-attachments/assets/29a0e0c7-899a-4736-aaf4-a10b16c66a4a)
 
 
-![Achievementspage](https://img.shields.io/badge/Achievements&nbsp;&amp;&nbsp;Certifications&nbsp;page-%230078D4?style=flat&colorB=%23A3E635)
+
+
+
+<img src="https://img.shields.io/badge/Achievements&nbsp;&amp;&nbsp;Certifications&nbsp;page-%230078D4?style=flat&colorB=%23A3E635" style="width:150px; padding:10px; border:2px solid black;">
 
 ![image](https://github.com/user-attachments/assets/883e82e3-43ca-429b-974a-4ba96a62aaa1)
 
-![Contactpage](https://img.shields.io/badge/Contact&nbsp;page-%230078D4?style=flat&colorB=%23A3E635)
+
+
+
+<img src="https://img.shields.io/badge/Contact&nbsp;page-%230078D4?style=flat&colorB=%23A3E635" style="width:150px; padding:10px; border:2px solid black;">
 
 ![image](https://github.com/user-attachments/assets/ff33078c-a6a9-4425-a2dd-a7be429b2fab)
 
 
-![Footersection](https://img.shields.io/badge/Footer&nbsp;section-%230078D4?style=flat&colorB=%23A3E635)
+
+<img src="https://img.shields.io/badge/Footer&nbsp;section-%230078D4?style=flat&colorB=%23A3E635" style="width:150px; padding:10px; border:2px solid black;">
 
 ![image](https://github.com/user-attachments/assets/7bebd362-155d-4f79-9b48-25c399319d59)
 
