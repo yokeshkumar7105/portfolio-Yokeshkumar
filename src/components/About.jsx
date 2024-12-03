@@ -26,7 +26,7 @@ const About = () => {
         <div className="container">
             <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12 reveal-up">
                 <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
-                    Welcome! I&apos;m Yokeshkumar, a Smart Student willing to learn new technologies and to apply my mere knowledge in creating real world applications. To view and solve the problem through different perspective and to provide solutions for the well being of the organization. I would like to expand my knowledge in learning new skills that would lead a my career to new destination.
+                    Welcome! I&apos;m Yokeshkumar, a Smart Student willing to learn new technologies and to apply my mere knowledge in creating real world applications. To view and solve the problem through different perspective and to provide solutions for the well being of the organization. I would like to expand my knowledge in learning new tech skills that would lead a my career to new destination.
                 </p>
 
                 <div className="flex flex-wrap items-center gap-4 md:gap-7">
