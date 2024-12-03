@@ -65,6 +65,34 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 
 
+<div style="text-align: center;">
+  <img src="https://img.shields.io/badge/Home&nbsp;page-%230078D4?style=flat&colorB=%23A3E635" style="width:200px; height:50px; padding:10px; border:2px solid black;">
+</div>
+
+<div style="text-align: center;">
+  <img src="https://img.shields.io/badge/About&nbsp;page-%230078D4?style=flat&colorB=%23A3E635" style="width:200px; height:50px; padding:10px; border:2px solid black;">
+</div>
+
+<div style="text-align: center;">
+  <img src="https://img.shields.io/badge/Work&nbsp;page-%230078D4?style=flat&colorB=%23A3E635" style="width:200px; height:50px; padding:10px; border:2px solid black;">
+</div>
+
+<div style="text-align: center;">
+  <img src="https://img.shields.io/badge/Achievements&nbsp;&amp;&nbsp;Certifications&nbsp;page-%230078D4?style=flat&colorB=%23A3E635" style="width:200px; height:50px; padding:10px; border:2px solid black;">
+</div>
+
+<div style="text-align: center;">
+  <img src="https://img.shields.io/badge/Contact&nbsp;page-%230078D4?style=flat&colorB=%23A3E635" style="width:200px; height:50px; padding:10px; border:2px solid black;">
+</div>
+
+<div style="text-align: center;">
+  <img src="https://img.shields.io/badge/Footer&nbsp;section-%230078D4?style=flat&colorB=%23A3E635" style="width:200px; height:50px; padding:10px; border:2px solid black;">
+</div>
+
+
+
+
+
 
 
 
