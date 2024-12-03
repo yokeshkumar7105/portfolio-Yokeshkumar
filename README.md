@@ -19,7 +19,7 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 ## 📌Screenshots
 
-![Homepage](https://img.shields.io/badge/Home&nbsp;page-%230078D4?style=flat&colorB=%23A3E635)
+<img src="https://img.shields.io/badge/Home&nbsp;page-%230078D4?style=flat&colorB=%23A3E635" style="width:150px; padding:10px; border:2px solid black;">
 
 ![image](https://github.com/user-attachments/assets/014d83f3-494e-4551-b59e-6d2a222f9a9f)
 
@@ -50,7 +50,7 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 
 
-<img src="https://img.shields.io/badge/Home&nbsp;page-%230078D4?style=flat&colorB=%23A3E635" style="width:150px; padding:10px; border:2px solid black;">
+
 
 
 
