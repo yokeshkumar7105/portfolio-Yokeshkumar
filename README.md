@@ -41,7 +41,7 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 
 
-<img src="https://img.shields.io/badge/Achievements&nbsp;&amp;&nbsp;Certifications&nbsp;page-%230078D4?style=flat&colorB=%23A3E635" style="width:150px; padding:10px; border:2px solid black;">
+<img src="https://img.shields.io/badge/Achievements&nbsp;page-%230078D4?style=flat&colorB=%23A3E635" style="width:150px; padding:10px; border:2px solid black;">
 
 ![image](https://github.com/user-attachments/assets/883e82e3-43ca-429b-974a-4ba96a62aaa1)
 
