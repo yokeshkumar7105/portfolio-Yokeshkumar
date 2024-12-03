@@ -50,6 +50,10 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 
 
+<img src="https://img.shields.io/badge/Home&nbsp;page-%230078D4?style=flat&colorB=%23A3E635" style="width:250px; padding:10px; border:2px solid black;">
+
+
+
 
 
 
