@@ -46,7 +46,6 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 ## 📌Demo
 
-https://github.com/user-attachments/assets/13ecc539-2d12-42f1-857c-e7bbab5dbc81
-
+https://github.com/user-attachments/assets/c4229d48-3bdb-46f5-b89b-825802340b42
 
 Check out the website here ➡️ https://shorturl.at/9S1Eq
