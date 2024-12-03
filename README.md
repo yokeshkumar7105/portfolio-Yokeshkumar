@@ -13,44 +13,31 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 ## 📌Screenshots
 
-<center>
-
-<img src="https://img.shields.io/badge/Home&nbsp;page-%230078D4?style=flat&colorB=%23A3E635" style="width:150px; padding:10px; border:2px solid black;">
+![Homepage](https://img.shields.io/badge/Home&nbsp;page-%230078D4?style=flat&colorB=%23A3E635)
 
 ![image](https://github.com/user-attachments/assets/014d83f3-494e-4551-b59e-6d2a222f9a9f)
 
 
-
-
-<img src="https://img.shields.io/badge/About&nbsp;page-%230078D4?style=flat&colorB=%23A3E635" style="width:150px; padding:10px; border:2px solid black;">
+![Aboutpage](https://img.shields.io/badge/About&nbsp;page-%230078D4?style=flat&colorB=%23A3E635)
 
 ![image](https://github.com/user-attachments/assets/32d67caf-9cfa-451e-a9c8-68d99b79e75f)
 
 
-
-
-<img src="https://img.shields.io/badge/Work&nbsp;page-%230078D4?style=flat&colorB=%23A3E635" style="width:150px; padding:10px; border:2px solid black;">
+![Workpage](https://img.shields.io/badge/Work&nbsp;page-%230078D4?style=flat&colorB=%23A3E635)
 
 ![image](https://github.com/user-attachments/assets/29a0e0c7-899a-4736-aaf4-a10b16c66a4a)
 
 
-
-
-
-<img src="https://img.shields.io/badge/Achievements&nbsp;page-%230078D4?style=flat&colorB=%23A3E635" style="width:150px; padding:10px; border:2px solid black;">
+![Achievementspage](https://img.shields.io/badge/Achievements&nbsp;&amp;&nbsp;Certifications&nbsp;page-%230078D4?style=flat&colorB=%23A3E635)
 
 ![image](https://github.com/user-attachments/assets/883e82e3-43ca-429b-974a-4ba96a62aaa1)
 
-
-
-
-<img src="https://img.shields.io/badge/Contact&nbsp;page-%230078D4?style=flat&colorB=%23A3E635" style="width:150px; padding:10px; border:2px solid black;">
+![Contactpage](https://img.shields.io/badge/Contact&nbsp;page-%230078D4?style=flat&colorB=%23A3E635)
 
 ![image](https://github.com/user-attachments/assets/ff33078c-a6a9-4425-a2dd-a7be429b2fab)
 
 
-
-<img src="https://img.shields.io/badge/Footer&nbsp;section-%230078D4?style=flat&colorB=%23A3E635" style="width:150px; padding:10px; border:2px solid black;">
+![Footersection](https://img.shields.io/badge/Footer&nbsp;section-%230078D4?style=flat&colorB=%23A3E635)
 
 ![image](https://github.com/user-attachments/assets/7bebd362-155d-4f79-9b48-25c399319d59)
 
