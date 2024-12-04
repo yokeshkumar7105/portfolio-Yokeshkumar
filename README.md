@@ -3,12 +3,6 @@
 
 Welcome to my personal portfolio👨‍💻, a curated collection of my creative🎨 and professional journey. This portfolio showcases my expertise, dedication, and passion for design and innovation. <a href="https://shorturl.at/9S1Eq">Live Demo</a>
 
-```
-function test() {
-  console.log("This code will have a copy button to the right of it");
-}
-```
-
 
 
 ## 📌Techstack
