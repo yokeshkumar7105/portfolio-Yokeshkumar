@@ -50,5 +50,29 @@ https://github.com/user-attachments/assets/c4229d48-3bdb-46f5-b89b-825802340b42
 
 Check out the website here ➡️ https://shorturl.at/9S1Eq
 
+## 📌Installation
+
+Follow the below steps to run the application,
+
+**Step 1:** Run this command in your terminal to make a clone
+
+```
+gh repo clone yokeshkumar7105/portfolio-Yokeshkumar
+```
+or 
+Download the ZIP file
+
+**Step 2:** Change the path to
+```
+cd portfolio-Yokeshkumar-main
+```
+**Step 3:** Vite Installation
+```
+npm install vite
+```
+**Step 4:** 
+```
+npm run dev
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=yokeshkumar7105&repository=portfolio-Yokeshkumar)
 
