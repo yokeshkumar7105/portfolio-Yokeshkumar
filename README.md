@@ -40,7 +40,7 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 https://github.com/user-attachments/assets/c4229d48-3bdb-46f5-b89b-825802340b42
 
-Check out the website here ➡️ https://shorturl.at/9S1Eq
+**Check out the website here ➡️** https://shorturl.at/9S1Eq
 
 ## 📌Installation
 
