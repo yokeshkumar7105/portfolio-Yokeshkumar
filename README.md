@@ -3,13 +3,8 @@
 
 Welcome to my personal portfolio👨‍💻, a curated collection of my creative🎨 and professional journey. This portfolio showcases my expertise, dedication, and passion for design and innovation. <a href="https://shorturl.at/9S1Eq">Live Demo</a>
 
-
-
 ## 📌Techstack
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) &nbsp; ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) &nbsp; ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) &nbsp;![GSAP](https://img.shields.io/badge/GSAP-React-brightgreen?style=flat&logo=greensock) &nbsp;![Lenis](https://img.shields.io/badge/Lenis-blue?style=flat&logo=react)
-
-
-
 
 ## 📌Screenshots
 
@@ -41,9 +36,6 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 ![image](https://github.com/user-attachments/assets/7bebd362-155d-4f79-9b48-25c399319d59)
 
-
-
-
 ## 📌Demo
 
 https://github.com/user-attachments/assets/c4229d48-3bdb-46f5-b89b-825802340b42
@@ -73,6 +65,7 @@ npm install vite
 **Step 4:** 
 ```
 npm run dev
+```
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=yokeshkumar7105&repository=portfolio-Yokeshkumar)
 
