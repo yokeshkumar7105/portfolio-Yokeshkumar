@@ -1,6 +1,6 @@
-#   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="image" width="40" height="40" />
 
-# 👨‍💻Personal PortFolio
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="image" width="40" height="40" /> Personal PortFolio
 
 Welcome to my personal portfolio👨‍💻, a curated collection of my creative🎨 and professional journey. This portfolio showcases my expertise, dedication, and passion for design and innovation. <a href="https://yokeshkumar7105.github.io/portfolio-Yokeshkumar/">Live Demo</a>
 
